@@ -1,0 +1,59 @@
+{
+    "modules": [
+
+    ],
+    "properties": {
+        "backendModules": [
+
+        ],
+        "description": "An extension as a library of Fluid Templates by iunctim",
+        "emConf": {
+            "category": "plugin",
+            "custom_category": "",
+            "dependsOn": "typo3 => 7.6.0-7.6.99\n",
+            "disableLocalization": false,
+            "disableVersioning": false,
+            "skipGenerateDocumentationTemplate": false,
+            "sourceLanguage": "en",
+            "state": "alpha",
+            "targetVersion": "7.6.0-7.6.99",
+            "version": ""
+        },
+        "extensionKey": "iu_viewhelpers",
+        "name": "Iunctim ViewHelpers",
+        "originalExtensionKey": "",
+        "originalVendorName": "",
+        "persons": [
+            {
+                "company": "Iunctim",
+                "email": "wahage@iunctim.com",
+                "name": "Tamim Wahage",
+                "role": "Developer"
+            },
+            {
+                "company": "Iunctim",
+                "email": "lange@iunctim.com",
+                "name": "Henning Lange",
+                "role": "Developer"
+            },
+            {
+                "company": "Iunctim",
+                "email": "kranefeld@iunctim.com",
+                "name": "Jan C. Kranefeld",
+                "role": "Developer"
+            }
+        ],
+        "plugins": [
+
+        ],
+        "vendorName": "Iunctim"
+    },
+    "wires": [
+
+    ],
+    "log": {
+        "last_modified": "2016-06-30 04:13",
+        "extension_builder_version": "7.6.0",
+        "be_user": "iunctim (1)"
+    }
+}
